@@ -544,7 +544,7 @@ body.paused #resume {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	background-color: black;
+	background-image: url("./icons/IMG_0155.jpeg");
 	color: white;
 	padding: 20px;
 	text-align: center;
